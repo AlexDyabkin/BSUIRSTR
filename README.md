@@ -1,1 +1,1 @@
-# BSUIRSTR
+https://github.com/AlexDyabkin/BSUIRSTR/
